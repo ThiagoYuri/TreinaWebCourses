@@ -1,0 +1,5 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoas.Dominio\bin\Debug\CadastroPessoas.Dominio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoas.Dominio\bin\Debug\CadastroPessoas.Dominio.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoas.Dominio\obj\Debug\CadastroPessoas.Dominio.pdb

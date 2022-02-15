@@ -1,0 +1,17 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\TreinaWeb.CadastroPessoa.Repositorio.dll.config
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\TreinaWeb.CadastroPessoa.Repositorio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\TreinaWeb.CadastroPessoa.Repositorio.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\CadastroPessoa.Persistencia.EF.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\CadastroPessoas.Dominio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\CadastroPessoa.Persistencia.EF.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\CadastroPessoa.Persistencia.EF.dll.config
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\CadastroPessoas.Dominio.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\obj\Debug\TreinaWeb.CadastroPessoa.Repositorio.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\obj\Debug\TreinaWeb.CadastroPessoa.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\obj\Debug\TreinaWeb.CadastroPessoa.Repositorio.csproj.CopyComplete
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\obj\Debug\TreinaWeb.CadastroPessoa.Repositorio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\TreinaWeb.CadastroPessoa.Repositorio\obj\Debug\TreinaWeb.CadastroPessoa.Repositorio.pdb

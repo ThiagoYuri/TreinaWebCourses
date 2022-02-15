@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\CadastroPessoa.Persistencia.EF.dll.config
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\CadastroPessoa.Persistencia.EF.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\CadastroPessoa.Persistencia.EF.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\CadastroPessoas.Dominio.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\EntityFramework.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\CadastroPessoas.Dominio.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\EntityFramework.xml
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoas.Persistencia.EF.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoas.Persistencia.EF.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoas.Persistencia.EF.csproj.CopyComplete
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoa.Persistencia.EF.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoa.Persistencia.EF.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoa.Persistencia.EF.Migrations.Criacao_Tabela_Pessoas.resources
+C:\Users\thiag\Desktop\github\TreinaWebCourses\TreinaWeb.CSharpAvancadoCadastroPessoas\CadastroPessoa.Persistencia.EF\obj\Debug\CadastroPessoas.Persistencia.EF.csproj.GenerateResource.cache
