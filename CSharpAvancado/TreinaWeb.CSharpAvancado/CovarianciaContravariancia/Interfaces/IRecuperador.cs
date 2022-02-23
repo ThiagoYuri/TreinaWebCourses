@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CovarianciaContravariancia
 {
-    interface IRecuperador<T>
+    interface IRecuperador<out T>
     {
         T Recuperar(int codigo);
     }
