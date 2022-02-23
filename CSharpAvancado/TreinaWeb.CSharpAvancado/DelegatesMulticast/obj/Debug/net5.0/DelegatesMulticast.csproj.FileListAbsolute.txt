@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.exe
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.deps.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.runtimeconfig.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\ref\DelegatesMulticast.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\bin\Debug\net5.0\DelegatesMulticast.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.AssemblyInfo.cs
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\ref\DelegatesMulticast.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesMulticast\obj\Debug\net5.0\DelegatesMulticast.genruntimeconfig.cache

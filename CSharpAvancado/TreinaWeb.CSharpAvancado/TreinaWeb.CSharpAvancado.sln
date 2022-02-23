@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovarianciaContravariancia", "CovarianciaContravariancia\CovarianciaContravariancia.csproj", "{89D3BB79-808F-426E-BD8C-42AF86A0C1A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovarianciaContravariancia", "CovarianciaContravariancia\CovarianciaContravariancia.csproj", "{89D3BB79-808F-426E-BD8C-42AF86A0C1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesMulticast", "DelegatesMulticast\DelegatesMulticast.csproj", "{C6CB9105-02F4-4A2D-9A0C-045287778893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{89D3BB79-808F-426E-BD8C-42AF86A0C1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D3BB79-808F-426E-BD8C-42AF86A0C1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D3BB79-808F-426E-BD8C-42AF86A0C1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CB9105-02F4-4A2D-9A0C-045287778893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CB9105-02F4-4A2D-9A0C-045287778893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CB9105-02F4-4A2D-9A0C-045287778893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CB9105-02F4-4A2D-9A0C-045287778893}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
