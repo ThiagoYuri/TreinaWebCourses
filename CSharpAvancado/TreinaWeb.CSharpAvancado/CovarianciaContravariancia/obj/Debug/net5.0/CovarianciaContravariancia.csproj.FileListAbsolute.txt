@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.AssemblyInfo.cs
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.exe
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.deps.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.runtimeconfig.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\ref\CovarianciaContravariancia.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\bin\Debug\net5.0\CovarianciaContravariancia.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\ref\CovarianciaContravariancia.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\CovarianciaContravariancia\obj\Debug\net5.0\CovarianciaContravariancia.genruntimeconfig.cache
