@@ -6,10 +6,11 @@ namespace CovarianciaContravariancia
     {
         static void Main(string[] args)
         {
-            ManipuladorFTP<string> ftp = new ManipuladorFTP<string>();
+            ManipuladorFTP<Nivel2> ftp = new ManipuladorFTP<Nivel2>();
 
-            ftp.Armazenar("teste");
-            Console.WriteLine(ftp.Recuperar(0));
+            IArmazenador<Nivel3> armazenador = ftp;
+
+            Console.WriteLine(new Nivel3());
             Console.ReadKey();
         }
     }

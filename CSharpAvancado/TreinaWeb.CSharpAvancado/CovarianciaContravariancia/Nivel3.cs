@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace CovarianciaContravariancia
 {
-    interface IArmazenador< in T>
+    class Nivel3:Nivel2
     {
-        void Armazenar(T item);
-
     }
 }
