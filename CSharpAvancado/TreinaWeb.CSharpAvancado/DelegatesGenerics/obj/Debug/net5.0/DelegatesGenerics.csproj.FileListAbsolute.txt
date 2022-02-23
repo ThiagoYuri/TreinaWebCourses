@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.AssemblyInfo.cs
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.exe
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.deps.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.runtimeconfig.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\ref\DelegatesGenerics.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\bin\Debug\net5.0\DelegatesGenerics.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\ref\DelegatesGenerics.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpAvancado\TreinaWeb.CSharpAvancado\DelegatesGenerics\obj\Debug\net5.0\DelegatesGenerics.genruntimeconfig.cache
