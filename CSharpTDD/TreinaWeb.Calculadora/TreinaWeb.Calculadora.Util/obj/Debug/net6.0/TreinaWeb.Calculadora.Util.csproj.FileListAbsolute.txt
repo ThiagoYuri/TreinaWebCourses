@@ -1,0 +1,12 @@
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\bin\Debug\net6.0\TreinaWeb.Calculadora.Util.deps.json
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\bin\Debug\net6.0\TreinaWeb.Calculadora.Util.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\bin\Debug\net6.0\ref\TreinaWeb.Calculadora.Util.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\bin\Debug\net6.0\TreinaWeb.Calculadora.Util.pdb
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.AssemblyInfo.cs
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\ref\TreinaWeb.Calculadora.Util.dll
+C:\Users\thiag\Desktop\github\TreinaWebCourses\CSharpTDD\TreinaWeb.Calculadora\TreinaWeb.Calculadora.Util\obj\Debug\net6.0\TreinaWeb.Calculadora.Util.pdb
