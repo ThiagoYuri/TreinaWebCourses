@@ -49,5 +49,14 @@ namespace TreinaWeb.Calculadora.xUnitTest
                 Assert.Equal(1, _calc.Dividir(1, 1));
             });
         }
+
+        [Fact]
+        public void TestDividirSegundoArgZero()
+        {
+            Assert.Throws<DivideByZeroException>(() =>
+            {
+                _calc.Dividir(1, 0);
+            });
+        }
     }
 }

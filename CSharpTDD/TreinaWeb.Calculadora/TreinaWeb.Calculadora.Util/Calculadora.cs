@@ -17,32 +17,35 @@ namespace TreinaWeb.Calculadora.Util
 
         public int Somar(int a, int b)
         {
-            if(a<_limiteMinimo ||b< _limiteMinimo)            
-                throw new ArgumentOutOfRangeException("O argumento está abaixo do limite mínimo");
-            
+            Validar(a, b);
             return a + b;
         }
 
         public int Subtrair(int a, int b)
         {
-            if (a < _limiteMinimo || b < _limiteMinimo)
-                throw new ArgumentOutOfRangeException("O argumento está abaixo do limite mínimo");
+            Validar(a, b);
             return a - b;
         }
 
 
         public int Multiplicar(int a, int b)
         {
-            if (a < _limiteMinimo || b < _limiteMinimo)
-                throw new ArgumentOutOfRangeException("O argumento está abaixo do limite");
+            Validar(a, b);
             return a * b;
         }
 
         public int Dividir(int a, int b)
         {
-            if (a < _limiteMinimo || b <_limiteMinimo)
-                throw new ArgumentOutOfRangeException("O argumento está abaixo do limite");
+            if (b == 0)
+                throw new DivideByZeroException("O segundo argumento não pode ser 0 ");
+            Validar(a, b);
             return a / b;
+        }
+
+        private void Validar(int a, int b)
+        {
+            if (a < _limiteMinimo || b < _limiteMinimo)
+                throw new ArgumentOutOfRangeException("O argumento está abaixo do limite");
         }
     }
 }
